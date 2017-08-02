@@ -2,13 +2,36 @@ body {
   text-align: center;
   font-family: Helvetica;
 }
-.header {
+.backimage {
   background-image: url('../images/background.png');
-  /*background-image: image('./resources/images/background.png');*/
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+nav a{
+  color: white;
+  font-size: 18px;
 }
 h1 {
   font-size: 70px;
+  font-weight: bold;
 }
 h2 {
   font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+.footer p {
+  font-size: 11px;
+}
+p {
+  font-size: 14px;
 }
