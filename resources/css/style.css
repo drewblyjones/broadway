@@ -3,7 +3,7 @@ body {
   font-family: Helvetica;
 }
 .header {
-  background-image: url('./resources/images/background.png');
+  background-image: url('../images/background.png');
   /*background-image: image('./resources/images/background.png');*/
 }
 h1 {
